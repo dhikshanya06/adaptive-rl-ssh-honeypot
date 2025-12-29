@@ -1,0 +1,6 @@
+[console_scripts]
+asciinema = cowrie.scripts.asciinema:run
+cowrie = cowrie.scripts.cowrie:run
+createfs = cowrie.scripts.createfs:run
+fsctl = cowrie.scripts.fsctl:run
+playlog = cowrie.scripts.playlog:run
